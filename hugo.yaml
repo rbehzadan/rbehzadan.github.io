@@ -1,0 +1,96 @@
+baseURL: https://rbehzadan.github.io/
+languageCode: en-us
+title: Reza's Techy Web Site
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+pagination:
+  pagerSize: 5
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: Reza's Techy Web Site
+  description: "Personal website of Reza Behzadan — sharing technical notes, dotfiles, scripts, and projects."
+  keywords: [blog, developer, dotfiles, scripts, projects, Reza Behzadan]
+  author: "Reza Behzadan"
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  ShowToc: true
+  TocOpen: true
+
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+
+  assets:
+    favicon: "img/favicon.ico"
+    favicon32x32: "img/favicon-32x32.png"
+
+  label:
+    text: "Home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  homeInfoParams:
+    Title: "Hi, I'm Reza 👋"
+    Content: >
+      Welcome to my space where I share technical notes, scripts, experiments, and projects. 
+      This site is part learning archive, part blog, and part digital playground.
+
+  socialIcons:
+    - name: x
+      url: "https://x.com/rbehzadan"
+    - name: stackoverflow
+      url: "https://stackoverflow.com/users/2332397/rbehzadan"
+    - name: github
+      url: "https://github.com/rbehzadan"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/rbehzadan/"
+
+markup:
+  highlight:
+    noClasses: false
+
+pygmentsUseClasses: true
+
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: /posts/
+      weight: 1
+
+    - identifier: dotfiles
+      name: Dotfiles
+      url: /dotfiles/
+      weight: 2
+
+    - identifier: scripts
+      name: Scripts
+      url: /scripts/
+      weight: 3
+
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 4
