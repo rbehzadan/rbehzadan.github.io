@@ -4,7 +4,7 @@ date: 2025-04-28
 description: "Starting a new journey — building, learning, and sharing along the way."
 tags: ["intro", "first post", "personal"]
 cover:
-  image: "img/post-01-cover.png"
+  image: "img/post-0001-cover.png"
   hidden: false
 showToc: false
 ---
