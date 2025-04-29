@@ -1,4 +1,4 @@
-name: Multi-Arch Build
+name: Multi-Arch Build and Push to DCR
 
 on:
   release:

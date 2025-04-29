@@ -1,4 +1,4 @@
-name: Docker Native Build and Push
+name: Native Build and Push to DCR
 
 on:
   release:
