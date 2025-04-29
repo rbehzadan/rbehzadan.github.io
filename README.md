@@ -1,5 +1,7 @@
 # Reza's Techy Web Site
 
+This repository hosts my personal website, along with various configuration files (dotfiles), scripts, and small utility projects. It serves as a lightweight public vault for tools and resources I frequently use or wish to share.
+
 
 ## Scaffoling
 ```bash
