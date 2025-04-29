@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Git on Reza&#39;s Techy Web Site</title>
+    <link>https://rbehzadan.github.io/tags/git/</link>
+    <description>Recent content in Git on Reza&#39;s Techy Web Site</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rbehzadan.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prepare Git-Tracked Code for LLMs</title>
+      <link>https://rbehzadan.github.io/posts/0002-bash-script-git_cat_all/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://rbehzadan.github.io/posts/0002-bash-script-git_cat_all/</guid>
+      <description>A simple Bash script to output all Git-tracked text files in a clean format, making it easier to feed coding projects into LLMs.</description>
+    </item>
+  </channel>
+</rss>
