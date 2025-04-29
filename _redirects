@@ -1,3 +1,0 @@
-# Place this in static/_redirects
-/about/resume   /about/resume/   301
-/about/resume/  /about/resume/index.html   200

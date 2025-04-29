@@ -16,23 +16,6 @@
       <description>A simple Bash script to output all Git-tracked text files in a clean format, making it easier to feed coding projects into LLMs.</description>
     </item>
     <item>
-      <title>About</title>
-      <link>https://rbehzadan.github.io/about/</link>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://rbehzadan.github.io/about/</guid>
-      <description>&lt;p&gt;Hi, I&amp;rsquo;m &lt;strong&gt;Reza Behzadan&lt;/strong&gt; — a developer passionate about building software, exploring technology, and sharing knowledge.&lt;/p&gt;
-&lt;p&gt;This website is my personal vault where I:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Share my &lt;strong&gt;dotfiles&lt;/strong&gt; and &lt;strong&gt;scripts&lt;/strong&gt; 🛠️&lt;/li&gt;
-&lt;li&gt;Post &lt;strong&gt;technical notes&lt;/strong&gt; and &lt;strong&gt;articles&lt;/strong&gt; 📚&lt;/li&gt;
-&lt;li&gt;Showcase &lt;strong&gt;small projects&lt;/strong&gt; I work on 🚀&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I enjoy learning, solving problems, and working across a wide range of technologies, from web development to system programming.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;resume&#34;&gt;Resume&lt;/h2&gt;
-&lt;p&gt;You can &lt;a href=&#34;https://rbehzadan.github.io/about/resume/&#34;&gt;view my resume here&lt;/a&gt; or &lt;a href=&#34;https://rbehzadan.github.io/docs/Reza-Behzadan-Resume-v3.pdf&#34;&gt;download the PDF version&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Hello, World!</title>
       <link>https://rbehzadan.github.io/posts/0001-hello-world/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
