@@ -4,7 +4,7 @@ date: 2025-04-28
 description: "Starting a new journey — building, learning, and sharing along the way."
 tags: ["intro", "first post", "personal"]
 cover:
-  image: "img/HomeBanner.png"
+  image: "img/post-01-cover.png"
   hidden: false
 showToc: false
 ---
@@ -19,7 +19,7 @@ This site is not just a blog. It's also a vault where I'll archive useful notes,
 
 Some posts will probably be technical deep-dives. Others might just be quick notes to future-me: "Here's how you solved that weird bug the last time." I’ll share experiments that work, and maybe a few that don't — that's part of the learning process too.
 
-And while I'm at it, I’ll be honest:  
+And while I'm at it, I’ll be honest:
 I also hope that having a public site like this helps me connect with others, and maybe even makes me a little easier to find for potential employers. (If you’re reading this and you're hiring, feel free to get in touch! 😄)
 
 Thanks for visiting — and here's to building, breaking, learning, and sharing more in the open.
@@ -29,4 +29,3 @@ See you around.
 ---
 
 *Reza*
-

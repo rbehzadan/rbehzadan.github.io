@@ -44,17 +44,18 @@ params:
 
   assets:
     favicon: "img/favicon.ico"
+    favicon16x16: "img/favicon-16x16.png"
     favicon32x32: "img/favicon-32x32.png"
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
+    icon: /img/apple-touch-icon.png
     iconHeight: 35
 
   homeInfoParams:
     Title: "Hi, I'm Reza 👋"
     Content: >
-      Welcome to my space where I share technical notes, scripts, experiments, and projects. 
+      Welcome to my space where I share technical notes, scripts, experiments, and projects.
       This site is part learning archive, part blog, and part digital playground.
 
   socialIcons:
