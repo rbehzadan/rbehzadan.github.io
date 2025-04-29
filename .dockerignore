@@ -1,0 +1,21 @@
+# Ignore build outputs
+/public
+/resources/_gen
+
+# Ignore local caches
+hugo_stats.json
+.hugo_build.lock
+
+# Ignore OS or editor junk files
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Ignore Docker artifacts
+Dockerfile
+docker-compose.yaml
+
+# Ignore README and docs
+README.md
+
