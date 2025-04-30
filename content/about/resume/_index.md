@@ -12,8 +12,6 @@ ShowBreadCrumbs: false
 ---
 
 **Location:** Toronto, ON, Canada
-**Phone:** +1 (416) 618-4430
-**Email:** reza@behzadan.com
 **LinkedIn:** [linkedin.com/in/rbehzadan](https://linkedin.com/in/rbehzadan)
 
 ---
