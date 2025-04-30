@@ -2,10 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://rbehzadan.github.io/posts/0003-clean-naming-convention-for-docker-build-and-push-workflows/</loc>
+    <lastmod>2025-04-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://rbehzadan.github.io/tags/bash/</loc>
     <lastmod>2025-04-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://rbehzadan.github.io/categories/best-practices/</loc>
+    <lastmod>2025-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rbehzadan.github.io/tags/best-practices/</loc>
+    <lastmod>2025-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rbehzadan.github.io/categories/</loc>
+    <lastmod>2025-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rbehzadan.github.io/tags/ci/cd/</loc>
+    <lastmod>2025-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rbehzadan.github.io/categories/devops/</loc>
+    <lastmod>2025-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rbehzadan.github.io/tags/docker/</loc>
+    <lastmod>2025-04-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://rbehzadan.github.io/tags/git/</loc>
+    <lastmod>2025-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rbehzadan.github.io/tags/gitea/</loc>
+    <lastmod>2025-04-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rbehzadan.github.io/tags/github-actions/</loc>
     <lastmod>2025-04-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rbehzadan.github.io/tags/llm/</loc>
@@ -43,7 +70,5 @@
   </url><url>
     <loc>https://rbehzadan.github.io/about/resume/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rbehzadan.github.io/categories/</loc>
   </url>
 </urlset>
