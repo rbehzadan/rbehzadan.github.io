@@ -4,7 +4,7 @@ date: 2025-04-29
 description: "A simple Bash script to output all Git-tracked text files in a clean format, making it easier to feed coding projects into LLMs."
 tags: ["bash", "git", "scripts", "llm"]
 cover:
-  image: "img/post-0002-cover.png"
+  image: "img/post-0002-cover.jpg"
   hidden: false
 showToc: false
 ---
