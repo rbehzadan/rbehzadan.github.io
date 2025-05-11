@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CIS on Reza&#39;s Techy Web Site</title>
+    <link>https://rbehzadan.github.io/categories/cis/</link>
+    <description>Recent content in CIS on Reza&#39;s Techy Web Site</description>
+    <generator>Hugo -- 0.147.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rbehzadan.github.io/categories/cis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CIS-Hardened Debian 12 AMI with Packer and Ansible</title>
+      <link>https://rbehzadan.github.io/posts/0004-cis-hardened-debian-12-ami-with-packer-and-ansible/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://rbehzadan.github.io/posts/0004-cis-hardened-debian-12-ami-with-packer-and-ansible/</guid>
+      <description>How I built a CIS-hardened Debian 12 AMI using Packer and Ansible, with notes on IAM permissions and automation for reproducibility.</description>
+    </item>
+  </channel>
+</rss>

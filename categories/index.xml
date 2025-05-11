@@ -6,20 +6,41 @@
     <description>Recent content in Categories on Reza&#39;s Techy Web Site</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rbehzadan.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Best Practices</title>
-      <link>https://rbehzadan.github.io/categories/best-practices/</link>
-      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://rbehzadan.github.io/categories/best-practices/</guid>
+      <title>AWS</title>
+      <link>https://rbehzadan.github.io/categories/aws/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://rbehzadan.github.io/categories/aws/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>CIS</title>
+      <link>https://rbehzadan.github.io/categories/cis/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://rbehzadan.github.io/categories/cis/</guid>
       <description></description>
     </item>
     <item>
       <title>DevOps</title>
       <link>https://rbehzadan.github.io/categories/devops/</link>
-      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
       <guid>https://rbehzadan.github.io/categories/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Security</title>
+      <link>https://rbehzadan.github.io/categories/security/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://rbehzadan.github.io/categories/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Best Practices</title>
+      <link>https://rbehzadan.github.io/categories/best-practices/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://rbehzadan.github.io/categories/best-practices/</guid>
       <description></description>
     </item>
   </channel>

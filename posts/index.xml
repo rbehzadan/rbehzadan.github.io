@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Reza&#39;s Techy Web Site</description>
     <generator>Hugo -- 0.147.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rbehzadan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CIS-Hardened Debian 12 AMI with Packer and Ansible</title>
+      <link>https://rbehzadan.github.io/posts/0004-cis-hardened-debian-12-ami-with-packer-and-ansible/</link>
+      <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://rbehzadan.github.io/posts/0004-cis-hardened-debian-12-ami-with-packer-and-ansible/</guid>
+      <description>How I built a CIS-hardened Debian 12 AMI using Packer and Ansible, with notes on IAM permissions and automation for reproducibility.</description>
+    </item>
     <item>
       <title>A Clean Naming Convention for Docker Build &amp; Push Workflows</title>
       <link>https://rbehzadan.github.io/posts/0003-clean-naming-convention-for-docker-build-and-push-workflows/</link>
